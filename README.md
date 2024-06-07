@@ -33,7 +33,7 @@ Criticality of Affected Systems 🖥️
    - Identify which systems are affected and their importance to business operations
 
 Type of Threat 🛡️
-   - Assess the nature of the threat e g malware ransomware DDoS attack
+   - Assess the nature of the threat ex. malware ransomware DDoS attack
 
 Potential for Data Compromise 🔓
    - Determine if sensitive data is at risk of being exposed or stolen
