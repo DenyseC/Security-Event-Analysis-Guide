@@ -2,16 +2,6 @@ Security Event Analysis Guide 📊🔍
 
 Hi and welcome to the Security Event Analysis Guide This document will help you analyze security events and alerts to determine their severity and potential impact on your organizations systems and data Follow these steps to ensure a thorough and effective analysis
 
-Table of Contents
-1 Introduction 🌟
-2 Prerequisites 📚
-3 Steps for Analyzing Security Events 🛠️
-4 Determining Severity Levels 🚦
-5 Assessing Potential Impact 💥
-6 Documentation and Reporting 📝
-7 Best Practices 🏆
-8 Conclusion 🎉
-
 1 Introduction 🌟
 Analyzing security events and alerts is crucial for maintaining the integrity confidentiality and availability of your organizations data This guide provides a structured approach to evaluate and respond to security incidents effectively
 
